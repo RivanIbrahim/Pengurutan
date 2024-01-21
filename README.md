@@ -1,4 +1,4 @@
-# Documentation
+# Dokumentasi
 https://github.com/RivanIbrahim/Pengurutan/wiki/Documentation
 
 # Program Pengurutan dengan Bubble Sort
